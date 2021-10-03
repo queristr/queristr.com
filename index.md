@@ -5,3 +5,4 @@ wget 	sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master
 fetch 	sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 https://wiki.termux.com/wiki/Touch_Keyboard
 ```
+`https://www.sqlsec.com/2018/05/termux.html`
